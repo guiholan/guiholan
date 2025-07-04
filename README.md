@@ -2,6 +2,8 @@
 -📡Técnico em Telecomunicações-IFCE
 -🐍 Estudando Python
 -🎲 Foco em Dados
+-🤖 Estudando Programação embarcada
+-✍🏻 Estudando Design PCI
 <div>
   <a href="https://github.com/guiholan">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiholan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,6 +15,9 @@
   
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gui-arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+
+<img align="center" alt="gui" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<img align="center" alt="gui" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 
           
 
