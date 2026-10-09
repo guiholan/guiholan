@@ -1,30 +1,48 @@
-# Guilherme Holanda
+# Olá, sou o Guilherme Holanda 👋
 
-Engenheiro de Sistemas, técnico em Telecomunicações pelo IFCE. Trabalho com firmware, automação industrial e visão computacional, quase sempre em Python e C/C++.
+Engenheiro de Sistemas com foco em **Automação Industrial, Visão Computacional e Arquitetura de Software**. Formado em Técnico em Telecomunicações pelo IFCE.
 
-## Projetos
+---
 
-**LibrIA**: pipeline para criar um avatar intérprete de Libras. Processa mais de 15 mil vídeos com OpenCV e MediaPipe, extrai a pose do corpo e das mãos e leva o movimento para o Blender. Boa parte do trabalho é otimizar leitura de disco e paralelizar o processamento no Colab.
+### 🚀 Destaques Profissionais
 
-**Automação de esteira**: firmware em ESP32 para a linha de produção de uma fábrica. Controla motor por relé, lê sensores de passagem, conversa por MQTT e tem uma IHM com display e botões. O painel web que acompanha a linha em tempo real está em [dashboardira](https://github.com/guiholan/dashboardira).
+*   **LibrIA:** Pipeline de Engenharia de Dados e Visão Computacional para processamento em larga escala (15k+ vídeos de Libras), utilizando técnicas de otimização de I/O, processamento paralelo e pré-processamento com OpenCV/MediaPipe para Mocap.
+*   **EduCare (Projeto de Impacto Social):** Desenvolvimento de firmware e eletrônica para um dispositivo IoT integrado a um app de alfabetização infantil (autismo), utilizando *Bluetooth Low Energy*.
+*   **Automação Industrial:** Desenvolvimento de software de controle para automação de esteiras industriais, sensores e acionamento de relés, otimizando fluxos de produção.
 
-**EduCare**: firmware e eletrônica de um dispositivo com Bluetooth Low Energy ligado a um app de alfabetização para crianças autistas.
+---
 
-**[Raízes Nordestinas](https://github.com/guiholan/raizes-nordestinas)**: site do grupo de tradições folclóricas, em Next.js e TypeScript.
+### 🔒 Projetos privados
 
-Os repositórios `*-wokwi` são exercícios de eletrônica digital com Arduino e ESP32 (displays de 7 segmentos, multiplexação, registradores 74HC595, sensor ultrassônico), todos simuláveis no Wokwi.
+Alguns dos projetos que mais gosto ainda não podem ser publicados, então o código fica privado. Posso mostrar e explicar em uma conversa.
 
-## Ferramentas
+| Repositório | O que é | Stack |
+|---|---|---|
+| `libria-dataset-pipeline` | Monta o dataset do LibrIA: organiza os vídeos de Libras, extrai a pose do corpo e das mãos e gera os dados de movimento. | Python, OpenCV, MediaPipe |
+| `libria-ponte-blender` | Leva os dados de movimento do pipeline para o Blender e anima o avatar intérprete. | Python, Blender |
+| `iracema-festaalegre` | Firmware da automação de esteira: motor por relé, sensores de passagem, comunicação MQTT e IHM com display e botões. Os painéis web são públicos: [dashboardira](https://github.com/guiholan/dashboardira) e [dashboardfestaalegre](https://github.com/guiholan/dashboardfestaalegre). | C++, ESP32, MQTT |
 
-Python, C, C++, TypeScript · ESP32, Arduino, MQTT · OpenCV, MediaPipe, Blender · Next.js · Git
+---
 
-## Contato
+### 🛠 Tech Stack & Habilidades
 
-<a href="https://www.linkedin.com/in/guilherme-holanda-de-almeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:holandaguilherme05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://instagram.com/guii.holannda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+*   **Linguagens:** Python (Core), C, C++.
+*   **Domínios:** IoT, Firmware, Visão Computacional, Automação, Data Pipelines.
+*   **Ferramentas/Cloud:** Google Colab, Bibliotecas de Processamento (OpenCV, MediaPipe), Git.
 
-<a href="https://github.com/guiholan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiholan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiholan&layout=compact&langs_count=16&theme=dracula"/>
-</a>
+---
+
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/guilherme-holanda-de-almeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:holandaguilherme05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://instagram.com/guii.holannda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
+
+---
+
+<div>
+  <a href="https://github.com/guiholan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiholan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiholan&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
