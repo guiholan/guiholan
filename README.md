@@ -20,7 +20,7 @@ Alguns dos projetos que mais gosto ainda não podem ser publicados, então o có
 |---|---|---|
 | `libria-dataset-pipeline` | Monta o dataset do LibrIA: organiza os vídeos de Libras, extrai a pose do corpo e das mãos e gera os dados de movimento. | Python, OpenCV, MediaPipe |
 | `libria-ponte-blender` | Leva os dados de movimento do pipeline para o Blender e anima o avatar intérprete. | Python, Blender |
-| `iracema-festaalegre` | Firmware da automação de esteira: motor por relé, sensores de passagem, comunicação MQTT e IHM com display e botões. Os painéis web são públicos: [dashboardira](https://github.com/guiholan/dashboardira) e [dashboardfestaalegre](https://github.com/guiholan/dashboardfestaalegre). | C++, ESP32, MQTT |
+| `iracema-festaalegre` | Firmware da automação de esteira: motor por relé, sensores de passagem, comunicação MQTT e IHM com display e botões.| C++, ESP32, MQTT |
 
 ---
 
