@@ -14,7 +14,7 @@ Engenheiro de Sistemas com foco em **Automação Industrial, Visão Computaciona
 
 ### 🔒 Projetos privados
 
-Alguns dos projetos que mais gosto ainda não podem ser publicados, então o código fica privado. Posso mostrar e explicar em uma conversa.
+Alguns dos projetos que mais gosto ainda não podem ser publicados, então o código fica privado.
 
 | Repositório | O que é | Stack |
 |---|---|---|
